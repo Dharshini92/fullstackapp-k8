@@ -27,3 +27,5 @@ Apply the kubernetes files in following order:
 ``` kubectl apply -f frontend.yaml ```
 
 Enjoy!
+
+REFERENCE LINK: https://www.swtestacademy.com/deploy-full-stack-application-in-kubernetes/
