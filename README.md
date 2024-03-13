@@ -28,4 +28,4 @@ Apply the kubernetes files in following order:
 
 Enjoy!
 
-Other Full-Stack application [MERN]: https://medium.com/@bjnandi/deploy-full-stack-mern-application-with-kubernetes-k3s-on-aws-ec2-829102b83f18
+Full-Stack application Demo [MERN Stack]: https://medium.com/@bjnandi/deploy-full-stack-mern-application-with-kubernetes-k3s-on-aws-ec2-829102b83f18
